@@ -1,3 +1,3 @@
 # LifeCycleComponent
 
-Reed full document[http://androidkt.com/lifecycle/] 
+[Reed full document](http://androidkt.com/lifecycle/) 
